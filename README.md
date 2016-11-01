@@ -7,7 +7,7 @@ libraries required:
 - Basemap: https://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/basemap-1.0.7/
 
 
-This project is about the four colour theorem. The four colour theorem states that every map / image with contigous planes could be colored in with four colours. Th
+This project is about the four colour theorem. The four colour theorem states that every map / image with contigous planes could be colored in with four colours. This project was part of the minor Programming at the University of Amsterdam and was made by Team Mushroom (Kim de Bie, Jeroen de Jong and Rik Volger)
 
 The assignment was:
 1. Here are three different maps, make an algorithm to colour them in in the least amount of steps
